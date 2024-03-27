@@ -9,7 +9,7 @@ mlem[fastapi]
 mlflow
 numpy
 pandas
-sklearn
+scikit-learn
 sqlalchemy
 torch
 torchvision
