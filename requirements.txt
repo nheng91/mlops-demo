@@ -4,6 +4,7 @@ dvclive
 evidently
 featuretools
 flask
+flask_cors
 matplotlib
 mlem[fastapi]
 mlflow
