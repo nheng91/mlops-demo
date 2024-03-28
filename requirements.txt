@@ -16,3 +16,4 @@ sqlalchemy
 tensorflow
 torch
 torchvision
+wget
