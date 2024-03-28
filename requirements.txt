@@ -5,6 +5,7 @@ evidently
 featuretools
 flask
 flask_cors
+keras
 matplotlib
 mlem[fastapi]
 mlflow
