@@ -13,5 +13,6 @@ numpy
 pandas
 scikit-learn
 sqlalchemy
+tensorflow
 torch
 torchvision
